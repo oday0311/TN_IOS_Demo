@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+ android:layout_height="wrap_content" android:layout_width="wrap_content"
+ android:background="#ffffffff" android:orientation="horizontal"
+ android:id="@+id/aboutdialoglayout">
+ <TextView android:layout_height="wrap_content"
+   android:layout_width="wrap_content"
+  android:id="@+id/tvname" android:text="  成语（chengyu,idioms）是我国汉字语言词汇中一部分定型的词组或短句。
+  成语有固定的结构形式和固定的说法，表示一定的意义，在语句中是作为一个整体来应用的。成语有很大一部分是从古代相承沿用下来的，
+  在用词方面往往不同于现代汉语它代表了一个故事或者典故。 成语又是一种现成的话，跟习用语、
+  谚语相近，但是也略有区别。成语大都出自书面，属于文语性质的。其次在语言形式上，
+  成语是约定俗成的四字结构，字面不能随意更换；成语在语言表达中有生动简洁、 形象鲜明的作用
+  ////////////////////////////////////////////////////////////            
+    本程序收集了网络上找到的3万多个成语的解释和出处，例子,希望对你了解和学习中国的文化历史有所帮助@_@!!" />
+ </LinearLayout>

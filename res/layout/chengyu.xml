@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:baselineAligned="false" android:background="@drawable/zhujian2">
+<RelativeLayout android:gravity="center_horizontal" android:id="@+id/relativeLayout1" android:layout_height="wrap_content" android:layout_width="fill_parent">
+</RelativeLayout>
+<RelativeLayout android:layout_width="fill_parent" android:id="@+id/relativeLayout2" android:layout_height="50dip">
+</RelativeLayout>
+<RelativeLayout android:layout_width="fill_parent" android:id="@+id/relativeLayout3" android:gravity="center_horizontal" android:layout_height="60dip">
+    <ImageButton android:layout_alignParentTop="true" android:layout_height="40dip" android:fadingEdge="horizontal" android:adjustViewBounds="true" android:layout_width="200dip" android:id="@+id/imageButton2" android:src="@drawable/button31"></ImageButton>
+</RelativeLayout>
+<RelativeLayout android:id="@+id/relativeLayout4" android:layout_width="fill_parent" android:gravity="center_horizontal" android:layout_height="60dip">
+    <ImageButton android:layout_alignParentRight="true" android:layout_width="200dip" android:id="@+id/imageButton3" android:layout_height="40dip" android:src="@drawable/button32"></ImageButton>
+</RelativeLayout>
+<RelativeLayout android:id="@+id/relativeLayout5" android:layout_width="fill_parent" android:gravity="center_horizontal" android:layout_height="60dip">
+    <ImageButton android:id="@+id/imageButton4" android:layout_alignParentTop="true" android:layout_width="200dip" android:src="@drawable/button33" android:layout_height="40dip"></ImageButton>
+</RelativeLayout>
+<RelativeLayout android:layout_height="40dip" android:layout_width="fill_parent" android:gravity="center_horizontal" android:id="@+id/relativeLayout6">
+    <ImageButton android:layout_width="200dip" android:layout_height="wrap_content" android:layout_alignParentTop="true" android:id="@+id/ImageButton5" android:src="@drawable/button34"></ImageButton>
+</RelativeLayout>
+</LinearLayout>
